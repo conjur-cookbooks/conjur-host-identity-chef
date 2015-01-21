@@ -1,3 +1,5 @@
+**This is DEPRECATED!** Use https://github.com/conjur-cookbooks/conjur-host-identity instead.
+
 # Description
 
 Creates and installs Conjur host identity using Chef attributes and the Conjur 
